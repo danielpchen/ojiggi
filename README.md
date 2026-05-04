@@ -31,7 +31,7 @@ Ojiggi can also answer your language-related questions without entering the Sent
 
 ## Known Issues
 
-* On Gemini, using “Fast” mode sometimes render inaccurate results. Using at least “Thinking” is recommended.
+* On Gemini, using “Fast” mode sometimes gives inaccurate results. Using at least “Thinking” is recommended.
 
 ## License
 
